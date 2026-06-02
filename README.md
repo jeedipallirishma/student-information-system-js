@@ -127,9 +127,13 @@ JavaScript Developer | Web Development Learner
 If you found this project useful, consider giving it a star.
 
 
-<img width="1919" height="1062" alt="Screenshot 2026-06-02 184052" src="https://github.com/user-attachments/assets/5a7d2b2b-0bc8-44f4-8966-7ac766544a97" />
+<img width="1919" height="1068" alt="Screenshot 2026-06-02 184110" src="https://github.com/user-attachments/assets/714ab567-0636-4201-9eda-87c443c472de" />
 
-![Uploading Screenshot 2026-06-02 184110.png…]()
+
+<img width="1919" height="1062" alt="Screenshot 2026-06-02 184052" src="https://github.com/user-attachments/assets/089dfaa2-c9e5-431d-a6a8-df1b08da23f6" />
+
+
+
 
 
 
