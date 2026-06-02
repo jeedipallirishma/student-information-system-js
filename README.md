@@ -1,4 +1,4 @@
-<img width="1919" height="1062" alt="Screenshot 2026-06-02 184052" src="https://github.com/user-attachments/assets/a4751a8c-74cd-4e8b-b4c0-81c50ca406d3" /># Student Information System using JavaScript
+<img width="1843" height="1078" alt="Screenshot 2026-06-02 181912" src="https://github.com/user-attachments/assets/80d64bc8-2fe6-4b1b-b40d-394a72437683" /><img width="1919" height="1062" alt="Screenshot 2026-06-02 184052" src="https://github.com/user-attachments/assets/a4751a8c-74cd-4e8b-b4c0-81c50ca406d3" /># Student Information System using JavaScript
 
 ## 📖 Overview
 
@@ -127,10 +127,12 @@ JavaScript Developer | Web Development Learner
 If you found this project useful, consider giving it a star.
 
 
-<img width="1919" height="1068" alt="Screenshot 2026-06-02 184110" src="https://github.com/user-attachments/assets/714ab567-0636-4201-9eda-87c443c472de" />
+<img width="1843" height="1078" alt="Screenshot 2026-06-02 181912" src="https://github.com/user-attachments/assets/aadb9ae7-eb7f-435c-82c4-05de4afbbe1e" />
+
+<img width="1919" height="1076" alt="Screenshot 2026-06-02 181856" src="https://github.com/user-attachments/assets/e1e1e138-a2ef-42b0-8589-178b5d82c7a2" />
 
 
-<img width="1919" height="1062" alt="Screenshot 2026-06-02 184052" src="https://github.com/user-attachments/assets/089dfaa2-c9e5-431d-a6a8-df1b08da23f6" />
+
 
 
 
