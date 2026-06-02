@@ -1,4 +1,4 @@
-<img width="1843" height="1078" alt="Screenshot 2026-06-02 181912" src="https://github.com/user-attachments/assets/80d64bc8-2fe6-4b1b-b40d-394a72437683" /><img width="1919" height="1062" alt="Screenshot 2026-06-02 184052" src="https://github.com/user-attachments/assets/a4751a8c-74cd-4e8b-b4c0-81c50ca406d3" /># Student Information System using JavaScript
+# Student Information System using JavaScript
 
 ## 📖 Overview
 
